@@ -1,5 +1,6 @@
 # Pycharm
 .idea
+.js.map
 
 # Windows image file caches
 Thumbs.db
